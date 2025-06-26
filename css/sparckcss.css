@@ -1,0 +1,121 @@
+body {
+    /* background-color: #f2f4f7; */
+    background-image: url("../images/chat\ theme.avif");
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sparkchats {
+
+    /* border: 2px solid black; */
+    width: 40%;
+    height: 280px;
+    font-family: cursive;
+
+
+
+
+}
+
+h1 {
+    font-size: 70px;
+    ;
+    color: darkblue;
+
+}
+
+p {
+    font-size: 20px;
+    background-color: darkblue;
+    color: white;
+    line-height: 50px;
+
+}
+
+.login-div {
+
+    /* border: 2px solid black; */
+    width: 30%;
+    height: 69%;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px #0000001a, 0 8px 16px #0000001a;
+    background-color: white;
+
+
+}
+
+.mainspark {
+
+    display: flex;
+    /* gap: 500px; */
+    flex: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+input {
+    margin: 14px;
+    height: 8%;
+    width: 80%;
+    padding: 25px;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+    font-family: cursive;
+    outline-color: blue;
+}
+
+button {
+    width: 80%;
+    height: 10%;
+    font-size: 18px;
+    padding: 10px;
+    background-color: darkblue;
+    font-family: cursive;
+    color: white;
+    font-weight: 500;
+
+}
+
+a {
+    display: block;
+    margin-top: 50px;
+    font-family: cursive;
+    text-decoration: none;
+}
+
+hr {
+    width: 80%;
+    margin-top: 30px;
+}
+
+#forgotten-btn {
+    margin-top: 50px;
+    background-color: gray;
+    font-size: 19px;
+}
+
+
+.name-area {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    height: 8%;
+    margin-bottom: 30px;
+}
+
+#firstname {
+    margin-left: 0;
+    height: 8%;
+
+}
+
+#lastname {
+
+    margin-right: 0;
+    height: 8%;
+}
