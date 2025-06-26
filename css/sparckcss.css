@@ -81,7 +81,7 @@ button {
 
 }
 
-a {
+#forgottend-link {
     display: block;
     margin-top: 50px;
     font-family: cursive;
@@ -94,9 +94,18 @@ hr {
 }
 
 #forgotten-btn {
-    margin-top: 50px;
+    display: block;
+    width: 80%;
+    height: 5%;
+    text-decoration: none;
+    margin: auto;
+    font-size: 18px;
+    padding: 10px;
     background-color: gray;
-    font-size: 19px;
+    font-family: cursive;
+    margin-top: 50px;
+    color: white;
+    font-weight: 500;
 }
 
 
